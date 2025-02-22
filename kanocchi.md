@@ -1,7 +1,7 @@
 ﻿## 
 ![avatar](https://a.ppy.sh/2321050)
 
-[username example](https://osu.ppy.sh/users/2321050)
+[kanocchi](https://osu.ppy.sh/users/2321050)
 
 <!-- .slide vertical=true -->
 
