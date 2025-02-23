@@ -1,7 +1,7 @@
-﻿## 
-![avatar](https://a.ppy.sh/2321050)
+﻿## kanocchi
 
-[kanocchi](https://osu.ppy.sh/users/2321050)
+[![avatar](https://a.ppy.sh/2321050)](https://osu.ppy.sh/users/2321050)
+
 
 <!-- .slide vertical=true -->
 
