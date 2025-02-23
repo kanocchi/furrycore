@@ -6,6 +6,7 @@
        height="300"></a>
 <br>
 <b>kanocchi</b>
+<br></br>
   <a href="https://www.twitch.tv/heykanocchi">
   <img src="https://i.imgur.com/HM030lk.png" 
        width="50"
