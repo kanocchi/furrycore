@@ -6,9 +6,6 @@
        height="300"></a>
 <br>
 <b>kanocchi</b>
-</p>
-
-<p align="center">
   <br></br>
   <a href="https://www.twitch.tv/heykanocchi">
   <img src="https://i.imgur.com/HM030lk.png" 
@@ -22,6 +19,9 @@
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="50" 
        height="50"></a>
+</p>
+
+<p align="center">
   <br></br>
   <a href="https://osu.ppy.sh/teams/4152">furrycore</a>
  </p>
